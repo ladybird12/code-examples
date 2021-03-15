@@ -11,5 +11,3 @@ A folder for small coding challenges.
 /differentiate
 
 A folder containing a notebook to create a differentiation annimation for a custom function.
-
-A utility script to download academic papers behind a paywall when not connected to eduroam.
